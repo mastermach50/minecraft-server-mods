@@ -1,0 +1,13 @@
+name = "Mathew's Server Mods"
+author = "Mach50"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "057f3160999354d033459ebc9dbb565efbd0f83b50aaacb0cf190288d8d80bc3"
+
+[versions]
+fabric = "0.19.2"
+minecraft = "1.21.11"
